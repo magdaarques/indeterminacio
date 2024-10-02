@@ -59,8 +59,9 @@ on the screen under the code through the music.
 
 ## 5. Artist(s) Biography
 
-5. Artist(s) Biography
-Carlos Izquierdo
+
+[Carlos Izquierdo](https://carlos-izquierdo.com/)
+
 Composer, teacher, sound artist and curator. He currently directs 
 'Tresor_Fonoteca_valenciana', a project produced by the 
 Consortium of Museums of the Valencian Community on the archive 
@@ -78,9 +79,9 @@ NUMA Circuit 2022 (Tenerife), and in residencies such as
 MUA PLUS 2020 (Alicante), Arts al Nord 2022 (Menorca) and 
 the Cultura Resident 2023 research program (Castellón).
 
-Magda Arques
+[Magda Arques](https://magdarques.cargo.site/)
 
-Visual artist, visualist and teacher. Degree in Fine Arts from the 
+Visual artist, visualist, amateur coder, teacher. Degree in Fine Arts from the 
 Faculty of Sant Carles, Valencia, 2004, and in 2011 I finished 
 the Master of Visual Arts and Multimedia at the UPV. 
 
